@@ -1,0 +1,24 @@
+'''Daniel Smith'''Louisville, KY | (502) 471-6976 | [mailto:daniel@nightbug.us daniel@nightbug.us]
+
+
+'''Professional Experience'''
+
+'''The Rawlings Company, LLC '''| July 2019 – August 2020 '''Software Developer'''Agile team with pair programmingDeveloped back-end (C#) and front-end (Angular) of tool for analysts that processes large amounts of healthcare dataDeveloped testing plan for complex legacy code, discovering errors and making large refactorings to increase maintainability.Optimized T-SQL queries for fast and scalable processing of insurance claim data
+
+'''Tenable '''| January 2017 – May 2019'''Software Engineer'''Part of a remote, distributed teamDeveloped various automation tools with Python to assist developers with testing of Tenable products.Supported Dev-Ops tools (Bamboo and Jenkins)Developed tools to integrate CICD pipeline and testing into Slack to give fast visibility into test failures and outages. 
+
+'''American Printing House for the Blind | '''March 2014 – January 2017'''Software Engineer (Contract)'''Took over lead development of firmware for BrailleBuzz educational toy (C, ARM Cortex-M3)Developed word processor application for embedded Linux braille device (Java)
+
+'''Commercial Connect, LLC | '''May 2011 – March 2014'''Application Developer'''Developed features for PHP database front-end and domain name registry interface application.Developed T-SQL queries for manipulating large amounts of domain name data in Microsoft SQL ServerManaged name server record data for the clients' domain namesWrote various scripts in perl, python, batch, etc. for automating server maintenance tasks. 
+
+'''University of Louisville '''| January 2010 – January 2011'''Programmer-Analyst'''Developed native Windows service using C# and C++ to process email request for automatic submission to the support team's issue ticketing system.Performed testing on PeopleSoft applications. 
+
+
+'''Education'''
+
+'''University of LouisvilleJanuary 2013-December 2014'''Master of Engineering (M. Eng), Computer Engineering and Computer Science GPA 3.5/4.0
+
+'''University of LouisvilleSeptember 2006-December 2012'''Bachelor of Science (B.S.), Computer Engineering and Computer Science GPA 3.14/4.0
+
+
+
